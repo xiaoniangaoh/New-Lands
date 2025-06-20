@@ -1,0 +1,51 @@
+{
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "jodek:no_enderman_grief": {
+    "criteria": {
+      "tick": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-15 23:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-15 23:54:27 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2025-04-16 11:59:40 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 4325
+}

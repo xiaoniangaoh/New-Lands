@@ -1,0 +1,45 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-16 12:05:08 +0800"
+    },
+    "done": false
+  },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "jodek:no_enderman_grief": {
+    "criteria": {
+      "tick": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-16 12:05:06 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}

@@ -1,0 +1,45 @@
+{
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-04-14 18:54:22 +0800"
+    },
+    "done": true
+  },
+  "jodek:no_enderman_grief": {
+    "criteria": {
+      "tick": "2025-04-14 18:54:22 +0800"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-04-14 18:54:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-14 18:54:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-04-14 18:54:23 +0800"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-15 11:04:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-15 11:04:49 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
