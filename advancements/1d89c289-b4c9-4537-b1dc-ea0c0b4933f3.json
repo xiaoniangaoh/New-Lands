@@ -3558,5 +3558,23 @@
     },
     "done": true
   },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-06-21 11:02:23 +0800"
+    },
+    "done": true
+  },
+  "jodek:no_enderman_grief": {
+    "criteria": {
+      "tick": "2025-06-21 11:02:23 +0800"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-06-21 11:02:23 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
